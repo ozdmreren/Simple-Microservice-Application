@@ -1,0 +1,12 @@
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\bin\Debug\net9.0\Shared.deps.json
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\bin\Debug\net9.0\Shared.dll
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\bin\Debug\net9.0\Shared.pdb
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\Shared.AssemblyInfoInputs.cache
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\Shared.AssemblyInfo.cs
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\Shared.sourcelink.json
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\Shared.dll
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\refint\Shared.dll
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\Shared.pdb
+C:\Users\CANAVAR\Desktop\software\C#\BigProject\Shared\obj\Debug\net9.0\ref\Shared.dll
